@@ -63,7 +63,7 @@ cd /home/work
 
 pkg install git
 
-git clone https://github.com/ykla/Linux-QQ.git
+git clone https://github.com/ykla/FreeBSD-Linux-QQ
 
 其余步骤自行参考。
 
