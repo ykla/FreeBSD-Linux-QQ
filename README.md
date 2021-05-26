@@ -12,7 +12,7 @@ FreeBSD 安装 Linux QQ 方法
 
 以下参考https://docs.freebsd.org/en/books/handbook/linuxemu/
 
-pkg install emulators/linux_base-c7
+pkg install emulators/linux-c7
 
 开启服务：
 
