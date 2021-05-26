@@ -59,6 +59,7 @@ rpm2cpio < fcitx-gtk2-4.2.9.6-1.el7.x86_64.rpm | cpio -id
 rpm2cpio < /home/work/fcitx-4.2.9.6-1.el7.x86_64.rpm | cpio -id
 
 注意：以下是使用github 进行文件同步
+
 cd /home/work
 
 pkg install git
